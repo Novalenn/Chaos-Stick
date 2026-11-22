@@ -1,0 +1,20 @@
+{
+	"schemaVersion": 1,
+	"id": "chaosstick",
+	"version": "${version}",
+	"name": "Chaos Stick",
+	"description": "Right-click the Chaos Stick for a random effect.",
+	"authors": ["You"],
+	"license": "CC0-1.0",
+	"icon": "assets/chaosstick/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": ["com.chaosstick.ChaosStickMod"]
+	},
+	"depends": {
+		"fabricloader": ">=0.20.1",
+		"minecraft": "~1.21.11",
+		"java": ">=21",
+		"fabric-api": "*"
+	}
+}

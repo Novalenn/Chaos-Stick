@@ -1,0 +1,6 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [" D", "S "],
+	"key": {"D": "minecraft:diamond", "S": "minecraft:stick"},
+	"result": {"id": "chaosstick:chaos_stick"}
+}
