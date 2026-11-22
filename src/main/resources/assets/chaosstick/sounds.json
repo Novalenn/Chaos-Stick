@@ -1,0 +1,87 @@
+{
+	"herobrine.ambient": {
+		"sounds": [
+			"chaosstick:herobrine/ambient"
+		]
+	},
+	"herobrine.vanish": {
+		"sounds": [
+			"chaosstick:herobrine/vanish"
+		]
+	},
+	"null.ambient": {
+		"sounds": [
+			"chaosstick:null/ambient"
+		]
+	},
+	"null.hurt": {
+		"sounds": [
+			"chaosstick:null/hurt"
+		]
+	},
+	"null.death": {
+		"sounds": [
+			"chaosstick:null/death"
+		]
+	},
+	"stalker.ambient": {
+		"sounds": [
+			"chaosstick:stalker/ambient"
+		]
+	},
+	"stalker.hurt": {
+		"sounds": [
+			"chaosstick:stalker/hurt"
+		]
+	},
+	"stalker.death": {
+		"sounds": [
+			"chaosstick:stalker/death"
+		]
+	},
+	"boiled.ambient": {
+		"sounds": [
+			"chaosstick:boiled/ambient"
+		]
+	},
+	"boiled.hurt": {
+		"sounds": [
+			"chaosstick:boiled/hurt"
+		]
+	},
+	"boiled.death": {
+		"sounds": [
+			"chaosstick:boiled/death"
+		]
+	},
+	"hollow.ambient": {
+		"sounds": [
+			"chaosstick:hollow/ambient"
+		]
+	},
+	"hollow.hurt": {
+		"sounds": [
+			"chaosstick:hollow/hurt"
+		]
+	},
+	"hollow.death": {
+		"sounds": [
+			"chaosstick:hollow/death"
+		]
+	},
+	"weeper.ambient": {
+		"sounds": [
+			"chaosstick:weeper/ambient"
+		]
+	},
+	"weeper.hurt": {
+		"sounds": [
+			"chaosstick:weeper/hurt"
+		]
+	},
+	"weeper.death": {
+		"sounds": [
+			"chaosstick:weeper/death"
+		]
+	}
+}

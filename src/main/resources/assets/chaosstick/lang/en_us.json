@@ -1,1 +1,9 @@
-{"item.chaosstick.chaos_stick":"Chaos Stick"}
+{
+	"item.chaosstick.chaos_stick": "Chaos Stick",
+	"entity.chaosstick.herobrine": "Herobrine",
+	"entity.chaosstick.null": "NULL",
+	"entity.chaosstick.stalker": "The Stalker",
+	"entity.chaosstick.boiled_one": "The Boiled One",
+	"entity.chaosstick.hollow": "The Hollow",
+	"entity.chaosstick.weeper": "The Weeper"
+}

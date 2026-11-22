@@ -36,6 +36,9 @@ public class ChaosStickMod implements ModInitializer {
 
 	@Override
 	public void onInitialize() {
+		ModSounds.init();
+		ModEntities.init();
+		HorrorDirector.init();
 		ResourceKey<Item> key = ResourceKey.create(Registries.ITEM, Identifier.fromNamespaceAndPath(MOD_ID, "chaos_stick"));
 		CHAOS_STICK = Registry.register(BuiltInRegistries.ITEM, key,
 			new ChaosStickItem(new Item.Properties().setId(key).stacksTo(1)));

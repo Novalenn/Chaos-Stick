@@ -2,14 +2,21 @@
 	"schemaVersion": 1,
 	"id": "chaosstick",
 	"version": "${version}",
-	"name": "Chaos Stick",
-	"description": "Right-click the Chaos Stick for a random effect.",
-	"authors": ["You"],
+	"name": "Chaos Stick & Horror",
+	"description": "Chaos Stick plus horror creatures: Herobrine, NULL, Stalker, Boiled One, Hollow, Weeper.",
+	"authors": [
+		"You"
+	],
 	"license": "CC0-1.0",
 	"icon": "assets/chaosstick/icon.png",
 	"environment": "*",
 	"entrypoints": {
-		"main": ["com.chaosstick.ChaosStickMod"]
+		"main": [
+			"com.chaosstick.ChaosStickMod"
+		],
+		"client": [
+			"com.chaosstick.client.ChaosStickClient"
+		]
 	},
 	"depends": {
 		"fabricloader": ">=0.20.1",
