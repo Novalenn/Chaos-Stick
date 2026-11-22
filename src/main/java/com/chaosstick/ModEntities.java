@@ -12,7 +12,7 @@ import net.minecraft.world.entity.MobCategory;
 import net.minecraft.world.entity.ai.attributes.AttributeSupplier;
 import net.minecraft.world.entity.ai.attributes.Attributes;
 import net.minecraft.world.entity.monster.Monster;
-import net.minecraft.world.entity.monster.Zombie;
+import net.minecraft.world.entity.monster.zombie.Zombie;
 
 public class ModEntities {
 	public static final EntityType<HerobrineEntity> HEROBRINE = reg("herobrine", HerobrineEntity::new, 0.6F, 1.95F);
